@@ -14,6 +14,7 @@
   <img align="center" alt="Giva-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Giva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Giva-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Giva-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   
 </div>
  
@@ -33,8 +34,8 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React
-- 💬 Ask me about Html, CSS, JS, Bootstrap and React
-- 📫 How to reach me: https://www.linkedin.com/mwlite/in/givaldo-santos-aa958329
+- 💬 Ask me about Html, CSS, JS, Bootstrap, React, Java and Spring
+- 📫 How to reach me: https://www.linkedin.com/in/givaldo-santos-45b0b3243/
 
 
 - 🔭 I’m currently working on ...
