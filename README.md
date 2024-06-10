@@ -11,6 +11,7 @@
   <img align="center" alt="Giva-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">     
   <img align="center" alt="Giva-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Giva-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Giva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
  
@@ -28,14 +29,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React
-- 💬 Ask me about Html, CSS, JS, Bootstrap, React, Java and Spring
+- 🌱 I’m currently learning Python and Rpbotics
+- 💬 Ask me about JS, React, Java, Spring and Python
 - 📫 How to reach me: https://www.linkedin.com/in/givaldo-santos-45b0b3243/
 
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
